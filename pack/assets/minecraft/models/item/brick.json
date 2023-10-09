@@ -1,0 +1,7 @@
+{
+  "parent": "item/ingot",
+  "textures": {
+    "0": "item/brick",
+    "particle": "item/brick"
+  }
+}

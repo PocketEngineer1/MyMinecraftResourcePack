@@ -1,0 +1,7 @@
+{
+  "parent": "item/ingot",
+  "textures": {
+    "0": "item/gold_ingot",
+    "particle": "item/gold_ingot"
+  }
+}

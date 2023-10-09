@@ -1,0 +1,7 @@
+{
+  "parent": "item/ingot",
+  "textures": {
+    "0": "item/netherite_ingot",
+    "particle": "item/netherite_ingot"
+  }
+}
