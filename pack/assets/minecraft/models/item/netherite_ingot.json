@@ -1,5 +1,5 @@
 {
-  "parent": "item/ingot",
+  "parent": "item/custom/ingot",
   "textures": {
     "0": "item/netherite_ingot",
     "particle": "item/netherite_ingot"

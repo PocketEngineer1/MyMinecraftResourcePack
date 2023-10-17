@@ -1,0 +1,7 @@
+{
+  "parent": "item/custom/brick",
+  "textures": {
+    "0": "item/nether_brick",
+    "particle": "item/nether_brick"
+  }
+}

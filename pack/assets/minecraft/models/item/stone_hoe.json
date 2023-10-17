@@ -1,5 +1,5 @@
 {
-  "parent": "item/hoe",
+  "parent": "item/custom/hoe",
   "textures": {
     "0": "item/stone_hoe",
     "particle": "item/stone_hoe"

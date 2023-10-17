@@ -1,5 +1,5 @@
 {
-  "parent": "item/ingot",
+  "parent": "item/custom/ingot",
   "textures": {
     "0": "item/iron_ingot",
     "particle": "item/iron_ingot"

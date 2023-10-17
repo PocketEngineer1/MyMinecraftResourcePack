@@ -1,5 +1,5 @@
 {
-  "parent": "item/sword",
+  "parent": "item/custom/sword",
   "textures": {
     "0": "item/golden_sword",
     "particle": "item/golden_sword"

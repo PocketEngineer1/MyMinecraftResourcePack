@@ -1,5 +1,5 @@
 {
-  "parent": "item/pickaxe",
+  "parent": "item/custom/pickaxe",
   "textures": {
     "0": "item/wooden_pickaxe",
     "particle": "item/wooden_pickaxe"

@@ -1,5 +1,5 @@
 {
-  "parent": "item/shovel",
+  "parent": "item/custom/shovel",
   "textures": {
     "0": "item/stone_shovel",
     "particle": "item/stone_shovel"
