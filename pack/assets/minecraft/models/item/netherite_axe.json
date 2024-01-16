@@ -1,7 +1,6 @@
 {
   "parent": "item/custom/axe",
   "textures": {
-    "0": "item/netherite_axe",
-    "particle": "item/netherite_axe"
+    "1": "item/netherite_axe"
   }
 }

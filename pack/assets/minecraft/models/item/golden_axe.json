@@ -1,7 +1,6 @@
 {
   "parent": "item/custom/axe",
   "textures": {
-    "0": "item/golden_axe",
-    "particle": "item/golden_axe"
+    "1": "item/golden_axe"
   }
 }
