@@ -1,0 +1,6 @@
+{
+  "parent": "item/custom/bread",
+  "textures": {
+    "0": "item/bread"
+  }
+}
