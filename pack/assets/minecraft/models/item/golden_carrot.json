@@ -1,0 +1,7 @@
+{
+  "parent": "item/custom/carrot",
+  "textures": {
+    "0": "item/golden_carrot",
+    "particle": "item/golden_carrot"
+  }
+}
