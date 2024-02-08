@@ -1,0 +1,7 @@
+{
+  "parent": "item/custom/watermelon",
+  "textures": {
+    "0": "item/glistering_melon_slice",
+    "particle": "item/glistering_melon_slice"
+  }
+}
