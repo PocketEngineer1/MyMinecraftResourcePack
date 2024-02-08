@@ -1,0 +1,7 @@
+{
+  "parent": "item/custom/potato",
+  "textures": {
+    "0": "item/potato",
+    "particle": "item/potato"
+  }
+}
